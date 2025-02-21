@@ -3,7 +3,7 @@ import time
 import google.generativeai as genai
 
 # Configure Google Gemini API
-genai.configure(api_key="YOUR_GEMINI_API_KEY")
+genai.configure(api_key="AIzaSyBNuAnoR316s3mlaVY6zsgtmarKR4ZbajE")
 
 # Custom Styling
 st.markdown(
